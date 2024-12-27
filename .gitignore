@@ -1,3 +1,10 @@
+.pytest_cache
+.ruff_cache
+.venv
+.vscode
+.mise.toml
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
